@@ -1,0 +1,13 @@
+./src
+./dest
+2001535860:School of Computer Science/Teknik Informatika
+2001570075:BINUS Business School Undergraduate Program/Kreasi Bisnis
+2001564646:BINUS Business School Undergraduate Program/Kreasi Bisnis
+1901511771:School of Design/New Media
+1801390366:Faculty of Engineering/Arsitektur
+1901476232:Faculty of Humanities/Hubungan Internasional
+1901469183:School of Information Systems/Sistem Informasi
+1901462353:School of Design/Animasi
+1901499463:Faculty of Humanities/Psikologi
+1901462353:School of Design/Animasi
+1901462870:School of Design/Animasi
